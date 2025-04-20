@@ -1,4 +1,6 @@
 # 💼 Employee Turnover Prediction App
+> [Employee Turnover Prediction](https://eemployee-tturnover-pprediction-y.streamlit.app) → to run app
+
 A Streamlit-based machine learning web app that predicts whether an employee is likely to leave an organization based on various workplace factors like satisfaction, evaluation score, work hours, and more. The model is trained using XGBoost and wrapped in a machine learning pipeline for production-ready deployment.
 ## 📌 Objective
 To build and deploy a machine learning model that helps HR departments predict potential employee exits, enabling timely interventions and better retention strategies.
